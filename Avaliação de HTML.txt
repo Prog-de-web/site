@@ -1,0 +1,37 @@
+1. Crie uma pasta com o nome: "Site" e dentro dessa pasta crie um arquivo HTML5 com o nome: "index.html". Configure-o para que seja no padrão Português|Brasil e título da página seja: "Bandeira do Brasil".
+
+2. Crie duas subpastas dentro da pasta: "Site" com os nomes: "audios" e "imagens", para depois salvar os arquivos de acordo com cada pasta.
+
+3. Na página que foi criada, crie um Cabeçalho com o nome "Bandeira do Brasil" e outro com o nome República Federativa do Brasil, abaixo insira uma imagem com a bandeira do Brasil na imagem informe o nome "Bandeira do Brasil" de acordo com a acessibilidade.  
+
+4. Faça o download do aúdio: Hino Nacional Brasileiro e insira o aúdio após a imagem da bandeira. Informe como: Hino Nacional Brasileiro para que o mesmo fique acessível.
+
+5. Insira abaixo o texto conforme o modelo que foi retirado do site Wikipédia Pesquise no Wikipédia por: Bandeira do Brasil. Formate o texto com o alinhamento e formatação necessária. 
+
+6. Abaixo insira um link para uma nova página na sequência crie a com o nome BandeirasdoBrasil.html abaixo do link insira o rodapé conforme o modelo da página.
+
+7. Na página BandeirasdoBrasil.html  insira o título da página como: "Bandeiras dos Estados Brasileiros" e o cabeçalho do texto conforme o modelo e escolha a região que preferir, ex.: Região Nordeste, insira uma tabela com bordas e dentro das células coloque os nomes dos estados e a sigla, ex.: Sergipe-SE e crie links externos  que direcione para a imagem da bandeira de cada estado, conforme o exemplo. Insira também o rodapé.
+
+8. Incorpore um mapa da Região escolhida após a tabela sendo que o mesmo deve ter 50% do tamanho do original.
+
+9. Abaixo do Mapa,  Pesquise pelo video: "O Brasil em 3 minutos"  e crie  um link como o nome: "Saiba mais sobre o Brasil" para que o mesmo abra em uma nova página.
+
+10. Estilize as páginas da seguinte forma:
+
+Página index.html: 
+
+Plano de fundo na cor hexadecimal: #52D9DB,  fonte: verdana, tamanho 18px,  e o cabeçalho: fonte: courier new, cor: verde, tamanho: 22px
+
+Página bandeiradobrasil.html:
+
+Plano de fundo na cor hexadecimal: #52D9DB,  fonte: verdana, tamanho 18px,  e o cabeçalho: fonte: courier new, cor: verde, tamanho: 18,5px
+
+Boa Sorte!
+ 
+
+
+
+
+
+
+
